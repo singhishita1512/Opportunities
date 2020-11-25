@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title><strong>ENGINEERING ENTRANCE EXAMS, STATE, PRIVATE, UNDERGRADUATE, POSTGRADUATE</strong></title>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
+	<body>
+		<h1>ENGINEERING EXAMS</h1>
+		<div class="floating">
+			<p>
+				<img src="html cheetsheet/A.jpg" width="100" height="110">
+			</p>
+		</div>
+		<div class="floating">
+			<p>
+				<img src="html cheetsheet/B.jpg" width="100" height="110">
+			</p>
+		</div>
+		
+		<div class="floating">
+			<p>
+				<img src="html cheetsheet/D.jpg" width="100" height="110">
+			</p>
+		</div>
+		<div class="floating">
+			<p>
+				<img src="html cheetsheet/E.jpg" width="100" height="110">
+			</p>
+		</div>
+	<div class="clr"></div>
+			<p>
+				Engineering entrance exams in India are one of the toughest exams to qualify. A large number of candidates sit for these exams with a majority of them 
+				trying to secure a seat in the IITs. The stress of being able to pursue the stream that one is interested in adds to the difficulty of the candidates 
+				and so it is of utmost importance that students are aware of the various opportunities  that await them.
+				<br>
+				<br>
+				We have compiled data for the best engineering entrance exams to help the students who would like to pursue engineering fields.
+			</p>
+		<h2>UNDERGRADUATE COURSES</h2>
+			<div class="user">
+				<table>
+					<thead>
+						<tr>
+							<th class="row-1 serial">S.NO.</th>
+							<th class="row-2 row-name">ENTRANCE EXAMINATION</th>
+							<th class="row-3 row-info">STATE/COLLEGE</th>
+							<th class="row-4 row-more">MORE INFORMATION</th>
+						</tr>
+					</thead>
+					<tbody>
+					
+						<tr>
+							<td>1</td>
+							<td>JEE MAINS</td>
+							<td>ALL INDIA</td>
+							<td><a href="http://jeemain.nta.nic.in" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>2</td>
+							<td>JEE ADVANCED</td>
+							<td>ALL INDIA</td>
+							<td><a href="http://jeeadv.ac.in" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>3</td>
+							<td>UPSEE</td>
+							<td>UTTAR PRADESH</td>
+							<td><a href="http://upsee.nic.in" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>4</td>
+							<td>COMEDK UGET</td>
+							<td>KARNATAKA</td>
+							<td><a href="http://comedk.org" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>5</td>
+							<td>KEAM</td>
+							<td>KERALA</td>
+							<td><a href="http://cee-kerala.org" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>6</td>
+							<td>UKSEE</td>
+							<td>UTTARAKHAND</td>
+							<td><a href="http://uktech.ac.in" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>7</td>
+							<td>WBJEE</td>
+							<td>WEST BENGAL</td>
+							<td><a href="http://wbjeeb.nic.in" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>8</td>
+							<td>HPCET</td>
+							<td>HIMACHAL PRADESH</td>
+							<td><a href="http://himtu.ac.in" target="_blank"> Know More </a></td>
+						</tr>
+						
+						<tr>
+							<td>9</td>
+							<td>OJEE</td>
+							<td>ODISHA</td>
+							<td><a href="http://ojee.nic.in" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>10</td>
+							<td>TS EAMCET</td>
+							<td>TELANGANA</td>
+							<td><a href="http://eamcet.tsche.ac.in" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>11</td>
+							<td>GCET</td>
+							<td>GOA</td>
+							<td><a href="http://dte.goa.gov.in" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>12</td>
+							<td>TJEE</td>
+							<td>TRIPURA</td>
+							<td><a href="http://tbjee.nic.in" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>13</td>
+							<td>IPU CET</td>
+							<td>INDRAPRASTHA UNIVERSITY</td>
+							<td><a href="http://ipu.ac.in" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>14</td>
+							<td>BITSAT</td>
+							<td>BIRLA INSTITUTE OF TECHNOLOGY</td>
+							<td><a href="http://bitsat.in/exam-2020" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>15</td>
+							<td>VITEEE</td>
+							<td>VELLORE INSTITUTE OF TECHNOLOGY</td>
+							<td><a href="http://viteee.vit.ac.in" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>16</td>
+							<td>MANIPAL ENTRANCE EXAM</td>
+							<td>MANIPAL INSTITUTE OF TECHNOLOGY</td>
+							<td><a href="http://manipal.edu/mit.html" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>17</td>
+							<td>SRMJEE</td>
+							<td>SRM UNIVERSITY</td>
+							<td><a href="http://srmuniversity.ac.in" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>18</td>
+							<td>AEEE</td>
+							<td>AMRITA VISHWA VIDYAPEETHAM</td>
+							<td><a href="http://amrita.edu" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>19</td>
+							<td>SAAT</td>
+							<td>SIKSHA ‘O’ ANUSANDHAN UNIVERSITY</td>
+							<td><a href="http://soa.ac.in" target="_blank"> Know More </a></td>
+						</tr>
+						
+						<tr>
+							<td>20</td>
+							<td>KLUEEE</td>
+							<td>KL UNIVERSITY</td>
+							<td><a href="http://kluniversity.in/default.aspx" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>21</td>
+							<td>PESSAT</td>
+							<td>PES UNIVERSITY</td>
+							<td><a href="http://pessat.com" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>22</td>
+							<td>LPUNEST</td>
+							<td>LOVELY PROFESSIONAL UNIVERSITY</td>
+							<td><a href="http://nest.lpu.in" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>23</td>
+							<td>NEE</td>
+							<td>NERIST</td>
+							<td><a href="http://neeonline.ac.in" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>24</td>
+							<td>GEEE</td>
+							<td>GALGOTIAS UNIVERSITY</td>
+							<td><a href="http://galgotiasuniversity.edu.in" target="_blank"> Know More </a></td>
+						</tr>
+						<tr>
+							<td>25</td>
+							<td>AP EAMCET</td>
+							<td>ANDHRA PRADESH</td>
+							<td><a href="http://apeamcet.nic.in" target="_blank"> Know More </a></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			
+		</div>
+		<div style="margin-top:500px"></div>
+</html>
