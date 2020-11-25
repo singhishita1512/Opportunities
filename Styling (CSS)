@@ -1,0 +1,155 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+	h1{
+		font-size:80px;
+		text-decoration:underline;
+		border:hidden;
+		text-align: center;
+		background-color:#6495ED;
+		color:#E6E6FA;
+		word-spacing:0.2em;
+		border-bottom:2px solid black;
+	}
+	h2{
+		font-size:30px;
+		/*text-decoration:underline;*/
+		border:hidden;
+		text-align: left;
+		background-color:none;
+		color:black;
+		margin:50px 10px;
+		word-spacing:0.2em;
+		border-bottom:2px solid black;
+	}
+	/*h3{
+		font-size:30px;
+		text-decoration:underline;
+		border:hidden;
+		text-align: left;
+		background-color:none;
+		color:black;
+		margin:50px 10px;
+		word-spacing:0.2em;
+		border-bottom:2px solid black;
+	}*/
+	.floating{
+		float: right;
+		box-sizing:border-box;
+	}
+	.user{
+		table-layout: fixed;
+		width: 97%;
+		/*white-space: nowrap;*/
+		border-collapse:collapse;
+		margin-left:25px;
+	}
+	.user td {
+		border:solid black;
+		text-align:center;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		border-collapse:collapse;
+		padding: 2px;
+    }
+	.user th{
+		border:solid black;
+		background-color:#AFEEEE;
+		text-align:center;
+		margin-top:10px;
+		border-collapse:collapse;
+		padding: 2px;
+	}
+	.serial{
+		width:5%;
+	}
+	.row-name {
+	  width: 30%;
+	}
+	.row-info {
+	  width: 50%;
+	}
+	.row-more {
+	  width: 15%;
+	}
+	a{
+		text-deoration:none;
+		colour:black;
+	}
+	a:hover{
+		color:green;
+	}
+	a:active{
+		color:red;
+	}
+	p{
+		margin:30px 10px;
+		background-color:#FFE4E1;
+		padding-top:15px;
+		padding-left:3px;
+		font-style:Italic;
+	}
+/*body{
+	background-color:white;
+	color:black;
+	font:12px normal Tahoma,Geneva,Sans-serif;
+	line-height:16px;
+	margin:0;
+	}
+	a{
+		text-deoration:none;
+		colour:black;
+	}
+	a:hover{
+		color:green;
+	}
+	a:active{
+		color:red;
+	}
+	a:visited{
+		color:blue;
+	}
+	.clr{
+		clear:both;
+	}
+	.block{
+		margin-left:1em;
+		float:left;
+		width:30%;
+		padding:1em;
+	}
+	h1{
+		font-size:100px;
+		border:dotted black;
+		text-align: center;
+		background-color:#6495ED;
+		color:#F8F8FF;
+		margin:0;
+		padding:0;
+	}
+	.box-1
+	{
+		border: 5px black solid;
+		border-radius:15px;
+		margin: 10px 5px;
+		background-color:green;
+		color:red;
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+	.container
+	{
+		margin:auto;
+		width:85%;
+	}
+	.box-1 h1{
+		font-family-Tahoma;
+		font-weight:800;
+		font-style:Italic;
+		text-decoration:underline;
+		letter-spacing:0.2em;
+		word-spacing:1em;
+	}*/
