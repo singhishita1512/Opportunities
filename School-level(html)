@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>SCHOOL LEVEL EXAMS, OLYMPIADS, SCHOLARSHIPS</title>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<style>
+		table, th, td {
+		  border-collapse: collapse;
+		}
+		</style>
+	</head>
+	<body>
+		<h1>SCHOOL LEVEL EXAMS</h1>
+			<p>
+				With most children joining coaching classes at a very early stage, the pressure on their peers increase multifold. While the debate
+				on whether this is a good practice or not doesn't seem to come to an end anytime soon, we have compiled a data of the exams that students
+				they can give depending on their interests. 
+				<br>
+				<br>
+				Many a times students miss out on opportunities because of lack of information and participating in exams like these not only help them in finding
+				their interests but also give them a knack of how most competitive exams are conducted. Moreover, a lot of these exams are scholarship tests
+				which aim on helping meritorious students from weaker sections.
+			</p>
+		<h2>OLYMPIADS AND SCHOLARSHIP EXAMS</h2>
+			<div class="user">
+				<table>
+					<thead>
+						<tr> 
+						   <th class="row-1 serial">EXAM</th>
+						   <th class="row-1 serial">ELIGIBILITY CRITERIA</th>
+						   <th class="row-1 serial">DESCRIPTION</th>
+						   <th class="row-1 serial">Related links</th>
+						</tr>
+					</thead>
+					<tbody>
+					
+						<tr> 
+						   <td>IPM</td>
+						   <td>Classes 2-9</td>
+						   <td>2-stageMathematics competitive exam</td>
+						   <td><a href="https://ipm-mathemagic.com/site/">Know More</a></td>
+						</tr>
+
+						<tr> 
+						   <td>MTSE</td>
+						   <td>Classes 2-9</td>
+						   <td>1-stage Mathematics competitive exam</td>
+						   <td><a href="https://www.iisma.com/index.php">Know More</a></td>
+						</tr>
+
+						<tr> 
+						   <td>HOMI BHABHA</td>
+						   <td>Classes 6,9</td>
+						   <td>3-stage Science+Maths competitive exam</td>
+						   <td><a href="https://msta.in/homi-bhabha-exams/">Know More</a></td>
+						</tr>
+
+						<tr> 
+						   <td>NTSE</td>
+						   <td>Class 10</td>
+						   <td>2-stage Science+Maths+Mental Abilty+Social Sciences competitive exam</td>
+						   <td><a href="https://ncert.nic.in/national-talent-examination.php?ln=">Know More</a></td>
+						</tr>
+
+						<tr> 
+						   <td>KVPY</td>
+						   <td>Classes 11-12</td>
+						   <td>2-stage Science+Maths competitive exam</td>
+						   <td><a href="http://www.kvpy.iisc.ernet.in/main/index.htm">Know More</a></td>
+						</tr>
+
+						<tr> 
+						   <td>NSEJS(JSO)</td>
+						   <td>Classes 8-9</td>
+						   <td>5-stage Science+Maths competitive exam</td>
+						   <td><a href="https://www.iapt.org.in/exams/nse/nsec-b-a-js.html">Know More</a></td>
+						</tr>
+
+						<tr> 
+						   <td>NSEP(IPhO)</td>
+						   <td>Classes 10-12</td>
+						   <td>5-stage Physics competitive exam</td>
+						   <td><a href="https://www.iapt.org.in/exams/nse/nsec-b-a-js.html">Know More</a></td>
+						</tr>
+
+						<tr> 
+						   <td>NSEC(IChO)</td>
+						   <td>Classes 10-12</td>
+						   <td>5-stage Chemistry competitive exam</td>
+						   <td><a href="https://www.iapt.org.in/exams/nse/nsec-b-a-js.html">Know More</a></td>
+						</tr>
+
+						<tr> 
+						   <td>NSEA(IAO)</td>
+						   <td>Classes 10-12</td>
+						   <td>5-stage Astronomy competitive exam</td>
+						   <td><a href="https://www.iapt.org.in/exams/nse/nsec-b-a-js.html">Know More</a></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			
+		</div>
+		<div style="margin-top:500px"></div>
+</html>
+
+
+
+
+
